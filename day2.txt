@@ -169,6 +169,7 @@ $ wget https://mirrors.estointernet.in/apache/maven/maven-3/3.6.3/binaries/apach
 $ sudo yum install unzip
 $ unzip apache-maven-3.6.3-bin.zip
 $ export PATH=$PATH:/Maven_home/bin
+$ source set-maven.sh
 
 
 
